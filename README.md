@@ -18,4 +18,4 @@ La organización de los contenidos se centra en los siguientes elementos y su ap
 Además del material presente en el repositorio, el mismo contendrá links y referencias a videos, otros repositorios y material externo para complementar el contenido del mismo.
 
 ## Topics
-Podrá encontrar el índice de temas en [backend/topics.md](dsw/clases/backend/topics.md) así como el orden sugerido.
+Podrá encontrar el índice de temas en [backend/topics.md](./backend/topics.md) así como el orden sugerido.
