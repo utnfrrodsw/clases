@@ -9,3 +9,4 @@
 ## 2. Javascript
 * [02.01 - Sintaxis Básica](./02%20-%20javascript/02.01%20-%20sintaxis%20basica.md)
 * [02.02 - Funciones](./02%20-%20javascript/02.02%20-%20funciones.md)
+* [02.03 - javascript objects & json](02%20-%20javascript/02.03%20-%20javascript%20objects%20&%20json.md)
